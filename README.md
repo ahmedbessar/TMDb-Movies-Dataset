@@ -12,6 +12,7 @@ Contains observations of 10k+ movies like title, budget, revenue, cast, director
 * NumPy
 * Matplotlib
 * csv
+
 It will be recommend to installing Anaconda, which comes with all of the necessary packages, as well as Jupyter notebook.
 
 ![1_y1D9OyNtARhP0jrVmvULTw](https://user-images.githubusercontent.com/10078499/125385186-51191880-e39a-11eb-81c2-5949b7f706d6.jpeg)
