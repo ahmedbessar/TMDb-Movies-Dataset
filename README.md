@@ -7,3 +7,10 @@ This files contains:The report communicating your findings Any Python code you w
 ### Content
 Contains observations of 10k+ movies like title, budget, revenue, cast, director, tagline, keywords, genres, release date, runtime etc.
 
+**We will need an installation of Python, plus the following libraries:**
+* pandas
+* NumPy
+* Matplotlib
+* csv
+
+
